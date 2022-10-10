@@ -1,0 +1,1 @@
+# Four-digits number is given. Remove last digit from the number.

@@ -1,0 +1,1 @@
+# Three-digits number is given. Extract all even digits from the number.

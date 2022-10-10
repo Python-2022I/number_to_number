@@ -1,0 +1,1 @@
+# Four-digits number is given. Remove first digit from the number.

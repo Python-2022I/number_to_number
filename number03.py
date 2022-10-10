@@ -1,0 +1,1 @@
+# Three-digits number is given. Extract all odd digits from the number.
